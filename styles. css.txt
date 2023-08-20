@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: grey;
+}
+
+h1 {
+  color: yellow;
+  margin-left: 40px;
+} 
+</style>
+</head>
+<body>
+
+<h1>Home</h1>
+<p>Nothing</p>
+
+</body>
+</html>
